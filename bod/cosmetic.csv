@@ -2,11 +2,13 @@ tag,form,prefix,suffix
 
 ADR,co-principality,,共同公国
 
-AFG,emirate,,首長国
+AFG,kingdom,,王国
 
-ALB,principality,,公国
+ALB,kingdom,,王国
 
 ARG,republic,,共和国
+
+AUS,lands,,諸領邦
 
 BEL,kingdom,,王国
 
@@ -22,11 +24,7 @@ BRN,sultanate,,・スルタン国
 
 BUL,tsardom,,・ツァール国
 
-CHI,empire,,帝国
-
 CHI,minguo,,民国
-
-CHI,republic,,共和国
 
 CHL,republic,,共和国
 
@@ -44,7 +42,7 @@ ETH,empire,,帝国
 
 FIN,republic,,共和国
 
-FNG,warlord,,軍閥
+FNG,military_clique,,軍閥
 
 FRA,republic,,共和国
 
@@ -57,8 +55,6 @@ GUA,republic,,共和国
 HAI,republic,,共和国
 
 HON,republic,,共和国
-
-HUN,kingdom,,王国
 
 IRE,republic,,共和国
 
@@ -104,6 +100,8 @@ OTT,sublime_state,崇高なる,国
 
 PAR,republic,,共和国
 
+POL,kingdom,,王国
+
 POR,republic,,共和国
 
 PRL,sultanate,,・スルタン国
@@ -120,7 +118,7 @@ SER,kingdom,,王国
 
 SIA,kingdom,,王国
 
-SIK,warlord,,軍閥
+SIK,military_clique,,軍閥
 
 SKM,kingdom,,王国
 
@@ -146,6 +144,30 @@ TRC,sheikhdoms,,首長国
 
 URG,oriental_republic,,東方共和国
 
-YUN,warlord,,軍閥
+YUN,military_clique,,軍閥
 
 ZAN,sultanate,,・スルタン国
+
+ZHI,military_clique,,軍閥
+
+JGS,military_clique,,軍閥
+
+HNN,military_clique,,軍閥
+
+SCH,military_clique,,軍閥
+
+GZH,military_clique,,軍閥
+
+GND,military_clique,,軍閥
+
+XIB,ma_military_clique,,馬軍閥
+
+MEN,military_clique,,軍閥
+
+GXC,military_clique,,軍閥
+
+TER,sultanate,,・スルタン国
+
+PRL,sultanate,,・スルタン国
+
+ICE,kingdom,,王国
